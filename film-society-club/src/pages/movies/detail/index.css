@@ -1,0 +1,22 @@
+.description-section {
+    display: flex;
+    line-height: 2rem;
+}
+
+img {
+    width: 100%;
+    padding: 10px;
+}
+
+.movie-description {
+    width: 100%;
+    padding: 10px;
+}
+
+.des-movie-title {
+    font-weight: 700;
+}
+
+.des-movie-genre {
+    font-size: .7rem;
+}
