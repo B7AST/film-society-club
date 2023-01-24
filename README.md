@@ -1,7 +1,7 @@
 # film-society-club
 
 # Description:
-  It is a web page that retrieve movies from API and helps the user on search movies in order to make a personal movie list.
+  It is a single page application that retrieve movies from API and helps the user on search movies in order to make a personal movie list.
   
 # Technical description:
   It's a front end application based on **React.js** framework includes **axios** and **lodash**
